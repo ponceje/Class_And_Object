@@ -1,7 +1,7 @@
 package model;
 
 public class Student {
-
+    //created a constructor method, get and set for the attributes below
     String name;
     int age;
     String gender;
